@@ -1,5 +1,5 @@
 {
-  "name": "@akommv/twig-loader",
+  "name": "@alexkomm/twig-loader",
   "version": "0.4.5",
   "description": "Webpack loader for compiling twig.js templates",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akommv/twig-loader.git"
+    "url": "git+https://github.com/alexkomm/twig-loader.git"
   },
   "author": "Mathieu Maes @ Zimmo.be",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akommv/twig-loader/issues"
+    "url": "https://github.com/alexkomm/twig-loader/issues"
   },
-  "homepage": "https://github.com/akommv/twig-loader#readme",
+  "homepage": "https://github.com/alexkomm/twig-loader#readme",
   "peerDependencies": {
     "twig": "^1.15.3"
   },
